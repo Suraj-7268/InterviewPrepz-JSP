@@ -1,1 +1,2 @@
-# InterviewPrepz-JSP
+# InterviewPrepz
+Technical Questions for interview
